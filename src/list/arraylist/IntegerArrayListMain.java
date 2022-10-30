@@ -24,6 +24,28 @@ public class IntegerArrayListMain {
         for (int i = 0; i < list.len(); ++i) {
             System.out.println(list.get(i));
         }
+
+        ArrayList<String> stringArrayList = new ArrayList<>();
+
+        stringArrayList.add(0, "test");
+        stringArrayList.add(0, "sample");
+        stringArrayList.add(0, "String");
+
+        stringArrayList.append("test2");
+
+        stringArrayList.remove(3);
+
+        stringArrayList.add(3, "added-at-3");
+        stringArrayList.add(1, "added-at-1");
+        stringArrayList.add(0, "added-at-0");
+
+        stringArrayList.append("appended");
+        stringArrayList.remove(1);
+        stringArrayList.removeItem("added-at-3");
+
+        for (int i = 0; i < stringArrayList.len(); ++i) {
+            System.out.println(stringArrayList.get(i));
+        }
     }
 
 }
