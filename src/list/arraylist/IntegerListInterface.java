@@ -1,4 +1,4 @@
-package list;
+package list.arraylist;
 
 /**
  * @author : 조재철
