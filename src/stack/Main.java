@@ -7,7 +7,7 @@ package stack;
 public class Main {
 
     public static void main(String[] args) {
-        ArrayStack<Integer> s = new ArrayStack<>(10);
+        StackInterface<Integer> s = new LinkedStack<>();
 
         s.push(300);
         s.push(200);
