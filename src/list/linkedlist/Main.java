@@ -1,5 +1,7 @@
 package list.linkedlist;
 
+import list.arraylist.ListInterface;
+
 /**
  * @author : 조재철
  * @since 1.0
@@ -7,7 +9,7 @@ package list.linkedlist;
 public class Main {
 
     public static void main(String[] args) {
-        LinkedList<Integer> list = new LinkedList<>();
+        ListInterface<Integer> list = new CircularLinkedList<>();
 
         list.add(0, 300);
         list.add(0, 200);
