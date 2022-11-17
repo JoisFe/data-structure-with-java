@@ -1,5 +1,7 @@
 package stack;
 
+import list.linkedlist.LinkedList;
+
 /**
  * @author : 조재철
  * @since 1.0
@@ -7,7 +9,7 @@ package stack;
 public class Main {
 
     public static void main(String[] args) {
-        StackInterface<Integer> s = new LinkedStack<>();
+        StackInterface<Integer> s = new InheritedStack<>();
 
         s.push(300);
         s.push(200);
