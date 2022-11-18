@@ -7,7 +7,7 @@ package queue;
 public class Main {
 
     public static void main(String[] args) {
-        QueueInterface<String> s = new InheritedQueue<>();
+        QueueInterface<String> s = new ListQueue<>();
 
         s.enqueue("test1");
         s.enqueue("test2");
