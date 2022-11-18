@@ -1,0 +1,7 @@
+
+o
+java:S3008"TRename this field "NOT_FOUND" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹¬öŽüÿÿÿÿ
+p
+java:S1104"UMake NOT_FOUND a static final constant or non-public and provide accessors if needed.(‹¬öŽüÿÿÿÿ
+J
+java:S1444"/Make this "public static NOT_FOUND" field final(‹¬öŽüÿÿÿÿ

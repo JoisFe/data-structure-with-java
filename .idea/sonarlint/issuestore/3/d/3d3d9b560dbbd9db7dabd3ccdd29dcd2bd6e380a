@@ -1,0 +1,12 @@
+
+—
+java:S1186$"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¶¦­ª
+—
+java:S1186)"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(†ÇÃÀ
+œ
+java:S11863"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Þ‚ÄÔýÿÿÿÿ
+E
+java:S1905"/Remove this unnecessary cast to "LinkedList[]".(ƒÕüÝ
+F
+java:S1144")Remove this unused private "hash" method.(®ñ†ý8ˆûë›Ã0
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(´¼ÀÕùÿÿÿÿ
