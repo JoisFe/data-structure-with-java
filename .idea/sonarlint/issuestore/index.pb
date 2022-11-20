@@ -5,8 +5,6 @@
 ,src/list/arraylist/IntegerArrayListMain.java,3/a/3aed933a4365b4854a7529f015b64d76fb2b2575
 S
 #src/list/linkedlist/LinkedList.java,1/7/176d1dacaac75764ca00d1a3cef27d067aa67def
-X
-(src/binarySearchTree/IndexInterface.java,6/b/6b018208b3bbfbe18dad6d787b403e4e539acf9e
 U
 %src/list/arraylist/ArrayListMain.java,4/d/4df47ca7d161028f62d57a83218c1d3372ae6894
 Q
@@ -29,3 +27,11 @@ C
 src/stack/Main.java,9/1/91ed0cfa5e9d028f2ea0c68ebaf911780745f315
 M
 src/stack/InheritedStack.java,9/b/9bea45cc4406b5047d9d4ee74650a6d7f6804eba
+J
+src/stack/LinkedStack.java,b/9/b98258c6d4a6180d3db01f20d3f9f13abd23857b
+H
+src/stack/ListStack.java,f/0/f01fa9d78c24d6ad44509b19dc45f42924d6ea99
+M
+src/queue/QueueInterface.java,a/9/a96ee9a10c825246244b0772c9a01a7bef74e351
+I
+src/queue/ArrayQueue.java,5/0/500a03c2cbd73f841c2947259db0bc5a000d29e8

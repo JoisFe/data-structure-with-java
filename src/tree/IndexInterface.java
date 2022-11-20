@@ -1,4 +1,4 @@
-package binarySearchTree;
+package tree;
 
 /**
  * @author : 조재철

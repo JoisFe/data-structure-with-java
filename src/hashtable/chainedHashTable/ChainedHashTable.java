@@ -1,6 +1,6 @@
 package hashtable.chainedHashTable;
 
-import binarySearchTree.IndexInterface;
+import tree.IndexInterface;
 import list.linkedlist.LinkedList;
 import list.linkedlist.Node;
 
